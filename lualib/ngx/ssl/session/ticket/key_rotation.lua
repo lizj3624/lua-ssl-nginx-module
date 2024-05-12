@@ -297,6 +297,7 @@ function _M.init(opts)
             shdict_get = meta_shdict_get,
 
             memc_host = memc_host,
+            bkup_memc_host = bkup_memc_host,
             memc_port = memc_port,
             memc_timeout = memc_timeout,
             memc_conn_pool_size = memc_conn_pool_size,
